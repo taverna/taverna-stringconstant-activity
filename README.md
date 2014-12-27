@@ -1,3 +1,6 @@
-Taverna Workflow system Constant Value Activity: data model and execution implementation
+# Moved to Apache Taverna
 
-This code was previously hosted at http://taverna.googlecode.com/svn/taverna/engine/net.sf.taverna.t2.activities/
+This source code has moved to [Apache Taverna](http://taverna.incubator.apache.org/) 
+as part of the repository [incubator-taverna-engine](https://github.com/apache/incubator-taverna-engine)
+
+This repository is kept for historical reasons - see the tags and branches.
